@@ -1,0 +1,10 @@
+.target.parentNode.remove();
+
+test dome.com
+particles.js
+aboutus.js
+
+js plugin
+=====
+jquery.com
+NPM
